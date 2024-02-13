@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AstralArchitect
-- 👀 I’m interested in python and javascript
+- 👀 I’m interested in C, python and javascript
 - 🌱 I’m currently learning javascript
 
 <!---
