@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AstralArchitect
 - 👀 I’m interested in C, python and javascript
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and C
 
 <!---
 AstralArchitect/AstralArchitect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
