@@ -12,4 +12,6 @@
 </p>
 <p align="center">
     <a href="https://github.com/AstralArchitect"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstralArchitect&theme=auto&layout=compact&hide=html,css&langs_count=8&bg_color=101010&hide_title=false"></a>
+<iframe width="420" height="345" src="https://youtube.com/embed/dQw4w9WgXcQ/?autostart=1&mute=1">
+</iframe>
 </p>
